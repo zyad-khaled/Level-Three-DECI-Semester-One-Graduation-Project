@@ -1,0 +1,2 @@
+# Level-Three-DECI-Semester-One-Graduation-Project
+Analyzed the TMDB Movie Dataset using Python to uncover trends in the film industry. Explored the most active directors, actors, genres, and production companies since 2000, identified factors influencing box office revenue, examined release timing, and visualized relationships between budget, ratings, popularity, and financial success through EDA.
